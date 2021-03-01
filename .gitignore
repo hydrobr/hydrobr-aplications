@@ -1,0 +1,11 @@
+#Pycharm
+.idea/
+
+#Assets Folders
+assets/
+
+#PyCache
+__pycache__/
+
+#Jupyter Lab
+.ipynb_checkpoints/
